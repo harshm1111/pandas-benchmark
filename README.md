@@ -1,2 +1,2 @@
 # pandas-benchmark
-check benchmark for pandas library
+Checking methods for benchmarking different operations for pandas library.
